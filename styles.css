@@ -192,13 +192,13 @@ tr:hover {
 @media (min-width: 800px){
 
     input[type="search"]{
-        width: 40%;
+        width: 30%;
         margin-left: 2em;
     }
 
     .product{
         display: inline-block;
-        width: 40%;
+        width: 30%;
     }
 
 }
